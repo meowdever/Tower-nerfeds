@@ -1,0 +1,7 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-166.469925, 129.499939, -95.9650269, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-153.469925, 501.499939, -10.9650269, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-120.469925, 770.499939, -88.9650269, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-274.521301, 1430.71033, -74.7565308, 0, 0, -1, 0, 1, 0, 1, 0, 0)
